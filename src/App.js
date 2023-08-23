@@ -155,6 +155,7 @@ function WatchedBox() {
   );
 }
 */
+
 function MovieList({ movies }) {
   return (
     <ul className="list">
